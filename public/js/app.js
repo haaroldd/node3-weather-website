@@ -1,5 +1,3 @@
-console.log('Client side javascript is loaded!')
-
 // Fetch is used to fetch data from an url and use it
 
 const weatherForm = document.querySelector('form')
